@@ -40,7 +40,7 @@
     "gridsome-plugin-robots-txt": "^1.0.2",
     "gridsome-remark-figure-caption": "^1.1.3",
     "hast-util-from-parse5": "^6.0.1",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "parse5": "^6.0.1",
     "remark-autolink-headings": "^6.0.1",
     "remark-emoji": "^2.1.0",
